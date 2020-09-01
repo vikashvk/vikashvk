@@ -39,6 +39,6 @@
 <p align="center">
 <a href="https://twitter.com/mononymvikash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mononymvikash" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/vikashvk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikashvk" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/6552540/vikash-vk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6552540/vikash-vk" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/6552540/vikash-vk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/6552540/vikash-vk" height="30" width="30" /></a>
 <a href="https://fb.com/minuskelvinvk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="minuskelvinvk" height="30" width="30" /></a>
 </p>
