@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript and Angular js**
 
-- 👨‍💻 Intro [vikashvk.github.io](vikashvk.github.io)
+- 👨‍💻 Website [click here](https://vikashvk.github.io/)
 
 - 💬 Ask me about **java, Spring**
 
