@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashvk" alt="vikashvk" /> </p>
 
-- 🌱 I’m currently learning **javascript and Angular js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 Website [click here](https://vikashvk.github.io/)
 
