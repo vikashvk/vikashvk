@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yequalstovikash@gmail.com**
 
-- ⚡ Fun fact **I love Basketball, Running, Rap**
+- ⚡ Fun fact **I love long distance Running, endurance Cycling, reading Books**
 
 <!-- <p align="left">
   
