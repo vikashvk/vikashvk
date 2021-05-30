@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love Basketball, Running, Rap**
 
-<p align="left">
+<!-- <p align="left">
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
@@ -30,7 +30,7 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 
 </p>
-  
+   -->
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashvk&layout=compact&hide=html" alt="vikashvk" />
 </p>
 
