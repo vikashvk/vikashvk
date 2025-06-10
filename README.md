@@ -7,7 +7,7 @@
 
 - 👨‍💻 Website [click here](https://vikashvk.github.io/)
 
-- 💬 Ask me about **java, Spring**
+- 💬 Ask me about **Java, Spring**
 
 - 📫 How to reach me **2305vikash@gmail.com**
 
