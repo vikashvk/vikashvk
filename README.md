@@ -50,9 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashvk&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashvk&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+
 
 ---
 
