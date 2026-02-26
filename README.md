@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:2305vikash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-website-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vikashvk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -50,7 +50,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashvk&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
+p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikashvk&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=vikashvk&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikashvk&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikashvk&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikashvk&theme=tokyonight&utcOffset=5.5" width="32%" />
+</p>
 
 ---
 
