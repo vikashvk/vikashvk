@@ -46,16 +46,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashvk&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashvk&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=vikashvk&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
-p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikashvk&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=vikashvk&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikashvk&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikashvk&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikashvk&theme=tokyonight&utcOffset=5.5" width="32%" />
